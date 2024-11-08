@@ -2,7 +2,7 @@
 
 This script, written in Python using the **Robot Framework** and the **Selenium** library, allows you to automatically send a "Good Morning" GIF to your friends on Discord :) .
 
-## 🚀🚀 Features 
+## 🚀 Features 
 - **Automatic Message Sending**: Send any message you want automatically, like, for example, a "Good Morning" GIF!
 - **Customizable**: Easily change the GIF and message content.
 - **User-Friendly**: Simple to set up and run.
