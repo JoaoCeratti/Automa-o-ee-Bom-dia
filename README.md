@@ -9,7 +9,7 @@ This script, written in Python using the **Robot Framework** and the **Selenium*
 
 ## 🔧 Setup Instructions
 
-1. **Install Robot Framework (if not already installed)**
+1. **Install Robot Framework**
    ```bash
    pip install robotframework
    ```
