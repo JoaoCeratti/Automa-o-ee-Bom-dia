@@ -32,5 +32,5 @@ This script, written in Python using the **Robot Framework** and the **Selenium*
 
 ## ✨ Enjoy Your Automated Greetings!
 
-Feel free to reach out if you have any questions or suggestions! you can find me on instagram, JoaoCeratti :) 
+Feel free to reach out if you have any questions or suggestions! you can find me on instagram, @JoaoCeratti :) 
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdyMndnYThlZWVxZ3MzaGgwZXNla3VhZmc5a3kzazBjNjhwODV6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PZShNCt8E51Ti/200.gif" width="150px" align="center"/> 
