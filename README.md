@@ -15,7 +15,6 @@ This script, written in Python using the **Robot Framework** and the **Selenium*
    ```
 
 2. **Install Required Libraries**:
-   Ensure you have the necessary libraries installed. You can do this by running:
    ```bash
    pip install robotframework selenium
    ```
